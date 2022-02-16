@@ -1,0 +1,19 @@
+#title{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.center{
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+#image{
+  max-width: 70%;
+  height: auto;
+  display: block;
+}
