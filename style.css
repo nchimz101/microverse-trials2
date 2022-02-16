@@ -17,3 +17,16 @@
   height: auto;
   display: block;
 }
+
+h3{
+  font-size: 15px;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+h2{
+text-align: center;
+margin: auto;
+color: red;
+}
