@@ -1,3 +1,9 @@
+body{
+  text-align: justify;
+  padding: 20px;
+  background-color: antiquewhite;
+}
+
 #title{
   font-family: sans-serif;
   font-weight: bold;
@@ -29,4 +35,8 @@ h2{
 text-align: center;
 margin: auto;
 color: red;
+}
+p{
+  letter-spacing: 2px;
+  line-height: 20px;
 }
